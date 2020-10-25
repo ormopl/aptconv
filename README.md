@@ -19,5 +19,5 @@ Then run the script under Python. </h6>
 <h6>Script is so simple there is nothing to branch with. One of the most improvements will be to add functionallity with mixed regions (for now only one) and more efficient memory management (in Python?!)</h6>
 
 
-
+#xplane #xplaneairports #apt.dat 
 
